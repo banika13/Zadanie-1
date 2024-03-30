@@ -1,0 +1,17 @@
+Y:\Работа институт\Разработка студней\BD\Zadanie1\Zadanie1\bin\Debug\net6.0\Zadanie1.exe
+Y:\Работа институт\Разработка студней\BD\Zadanie1\Zadanie1\bin\Debug\net6.0\Zadanie1.deps.json
+Y:\Работа институт\Разработка студней\BD\Zadanie1\Zadanie1\bin\Debug\net6.0\Zadanie1.runtimeconfig.json
+Y:\Работа институт\Разработка студней\BD\Zadanie1\Zadanie1\bin\Debug\net6.0\Zadanie1.dll
+Y:\Работа институт\Разработка студней\BD\Zadanie1\Zadanie1\bin\Debug\net6.0\Zadanie1.pdb
+Y:\Работа институт\Разработка студней\BD\Zadanie1\Zadanie1\bin\Debug\net6.0\MySqlConnector.dll
+Y:\Работа институт\Разработка студней\BD\Zadanie1\Zadanie1\obj\Debug\net6.0\Zadanie1.csproj.AssemblyReference.cache
+Y:\Работа институт\Разработка студней\BD\Zadanie1\Zadanie1\obj\Debug\net6.0\Zadanie1.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Работа институт\Разработка студней\BD\Zadanie1\Zadanie1\obj\Debug\net6.0\Zadanie1.AssemblyInfoInputs.cache
+Y:\Работа институт\Разработка студней\BD\Zadanie1\Zadanie1\obj\Debug\net6.0\Zadanie1.AssemblyInfo.cs
+Y:\Работа институт\Разработка студней\BD\Zadanie1\Zadanie1\obj\Debug\net6.0\Zadanie1.csproj.CoreCompileInputs.cache
+Y:\Работа институт\Разработка студней\BD\Zadanie1\Zadanie1\obj\Debug\net6.0\Zadanie1.csproj.CopyComplete
+Y:\Работа институт\Разработка студней\BD\Zadanie1\Zadanie1\obj\Debug\net6.0\Zadanie1.dll
+Y:\Работа институт\Разработка студней\BD\Zadanie1\Zadanie1\obj\Debug\net6.0\refint\Zadanie1.dll
+Y:\Работа институт\Разработка студней\BD\Zadanie1\Zadanie1\obj\Debug\net6.0\Zadanie1.pdb
+Y:\Работа институт\Разработка студней\BD\Zadanie1\Zadanie1\obj\Debug\net6.0\Zadanie1.genruntimeconfig.cache
+Y:\Работа институт\Разработка студней\BD\Zadanie1\Zadanie1\obj\Debug\net6.0\ref\Zadanie1.dll
